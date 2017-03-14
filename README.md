@@ -11,7 +11,7 @@
  - Install using ```go get``` as mentioned below, this will clone the project to **$GOPATH**  
    - ```$go get github.com/lovababu/golang-calculator```  
    
- - Installing **ginkgo and gomega** fallow this [https://onsi.github.io/ginkgo/](Link)  
+ - Installing **ginkgo and gomega** fallow this [Link](https://onsi.github.io/ginkgo/)  
  
  - ```$go test``` to run the test case.
  
